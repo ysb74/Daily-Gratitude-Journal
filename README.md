@@ -8,7 +8,7 @@ A simple, elegant iOS mobile application for recording and reflecting on daily g
 
 ---
 
-## âœ¨ Features
+## Features
 
 - **Daily Entries**: Easily add new gratitude entries with a simple text editor
 - **Automatic Timestamping**: Each entry is automatically saved with the current date and time
@@ -20,7 +20,7 @@ A simple, elegant iOS mobile application for recording and reflecting on daily g
 
 ---
 
-## ðŸ› ï¸ Technologies Used
+## Technologies Used
 
 - **Swift**: The primary programming language for iOS development
 - **SwiftUI**: Apple's declarative UI framework for building user interfaces
@@ -29,7 +29,7 @@ A simple, elegant iOS mobile application for recording and reflecting on daily g
 
 ---
 
-## ðŸš€ Getting Started
+## Getting Started
 
 To run this project on your local machine, follow these steps:
 
@@ -61,7 +61,7 @@ To run this project on your local machine, follow these steps:
 
 ---
 
-## ðŸ—ï¸ Project Structure
+## Project Structure
 
 The project is organized into logical components to enhance clarity and maintainability:
 
@@ -86,16 +86,16 @@ GratitudeJournal/
 
 ---
 
-## ðŸ“ License
+## License
 
 This project is open-source and licensed under the **MIT License**. For more details, see the `LICENSE` file in the repository.
 
 ---
 
-## ðŸ¤ Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## ðŸ“§ Contact
+## Contact
 
 If you have any questions or suggestions, please feel free to reach out or open an issue in the repository.
