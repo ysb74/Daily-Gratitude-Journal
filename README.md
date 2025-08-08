@@ -1,4 +1,4 @@
-# Daily Gratitude Journal ðŸŒŸ
+# Daily Gratitude Journal 
 
 A simple, elegant iOS mobile application for recording and reflecting on daily gratitude entries. This project was built to demonstrate fundamental iOS development concepts using SwiftUI and Core Data.
 
@@ -61,6 +61,21 @@ To run this project on your local machine, follow these steps:
 
 ---
 
+## Project Structure 
+```
+GratitudeJournal/
+├── GratitudeJournalApp.swift (App entry point)
+├── ContentView.swift (Home Screen)
+├── AddEntryView.swift (Add New Entry Screen)
+├── EntryDetailView.swift (Optional: Entry Detail Screen)
+├── Models/
+│   └── GratitudeEntry.swift (Core Data Entity/Swift struct)
+├── Persistence.swift (Core Data setup and manager)
+├── Assets.xcassets (App icons, images)
+├── Preview Content/
+└── Supporting Files/
+    └── Info.plist
+```
 
 ### File Descriptions
 
