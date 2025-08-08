@@ -61,19 +61,6 @@ To run this project on your local machine, follow these steps:
 
 ---
 
-## Project Structure
-
-The project is organized into logical components to enhance clarity and maintainability:
-
-```
-GratitudeJournal/
-â”œâ”€â”€ GratitudeJournalApp.swift          # Main entry point of the SwiftUI application
-â”œâ”€â”€ ContentView.swift                  # Main UI for home screen and entry list
-â”œâ”€â”€ AddEntryView.swift                 # View for composing new gratitude entries
-â”œâ”€â”€ EntryDetailView.swift              # Displays full content of selected entries
-â”œâ”€â”€ GratitudeJournal.xcdatamodeld      # Core Data model file
-â””â”€â”€ Persistence.swift                  # Core Data stack management
-```
 
 ### File Descriptions
 
